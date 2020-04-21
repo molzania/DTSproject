@@ -4,7 +4,7 @@ Online Academy (OA) | HTML, CSS, Javascript -Progate
 
 # DTSproject Kelompok D11
 * [Gramandha Wega Intyanto]
-* [Hamriyanto]
+* [Hamriyanto] -> ketua
 * [Firsty Ukhti Molyndi]
 * [faqihafrizal]
 * [Farhan Saputra]

@@ -1,5 +1,6 @@
-Digital Talent Scholarship - Online Academy (OA) | HTML, CSS, Javascript -Progate
+Digital Talent Scholarship 
 ==============================================================
+Online Academy (OA) | HTML, CSS, Javascript -Progate
 
 # DTSproject Kelompok D11
 * [Gramandha Wega Intyanto]

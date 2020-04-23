@@ -11,14 +11,14 @@ body {
 
 .bagian-utama-top{
     max-width: 100%;
-    padding: 0 15px;
+    /*padding: 0 15px;*/
     margin: 0 auto; 
     text-align: center;
     background-color: #FFEFCA;
   }
   
 .bagian-utama{
-    padding: 130px 0 130px 0;
+    padding: 200px 0 200px 0;
     background-color: rgba(0,0,0,0.3);  
 }
 

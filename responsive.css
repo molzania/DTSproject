@@ -32,4 +32,26 @@
     display: block;
 }
 
+.member-wrapper { 
+    margin: 0 auto;   
+    text-align: center;    
+}
+    
+.member {
+    width: 100%;
+    padding-left: 30%;   
+    margin-bottom: 30px;
+}
+}
+
+@media all and (max-width: 1000px) {
+
+.bagian-extra1 { 
+margin: 0 auto;   
+}
+
+.member {
+    width: 40%;
+    text-align: center;  
+}
 }

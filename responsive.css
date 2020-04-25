@@ -34,12 +34,12 @@
 
 .member-wrapper { 
     margin: 0 auto;   
-    text-align: center;    
+    text-align: left;    
 }
     
 .member {
     width: 100%;
-    margin-left: 18%;   
+    margin-left: 26%;   
     margin-bottom: 30px;
     text-align: center;
 }

@@ -39,15 +39,18 @@
     
 .member {
     width: 100%;
-    margin-left: 20%;   
+    margin-left: 26%;   
     margin-bottom: 30px;
     text-align: center;
 }
 
 .text-member {
+    width: 100%;    
+} 
+    
+.member-name  {
     width: 100%;
     font-size: 18px;
-    
 }    
     
 }

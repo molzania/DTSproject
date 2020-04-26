@@ -149,6 +149,11 @@ a:hover{
 .clear{
     clear:left;
 }
+
+.extra-2{
+    max-width: 100%;
+}
+
   input,textarea{
   width:400px;
   margin-top:10px;
@@ -160,6 +165,7 @@ a:hover{
 }
 
 /* Tambahkan CSS untuk contact-submit */
+
 .contact-submit{
   background-color:#dee7ec;
   color:#2f3542;

@@ -51,7 +51,11 @@
 .member-name  {
     width: 100%;
     font-size: 18px;
-}    
+} 
+
+input,textarea{
+    width:80%;
+  }    
     
 }
 

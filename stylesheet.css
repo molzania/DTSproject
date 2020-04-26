@@ -170,6 +170,17 @@ a:hover{
   cursor: pointer;
 
 }
+
+.contact-submit:hover{
+    opacity: 1;
+}
+
+.contact-submit:active {
+    box-shadow: none;
+    position: relative;
+    top:10px;
+}
+
   .contact-form{
     text-align:center;
     background-color:#ecf0f1;

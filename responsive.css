@@ -55,7 +55,60 @@
 
 input,textarea{
     width:80%;
-  }    
+  }   
+
+ .fa-bars {
+    
+    color: white;
+    font-size: 40px;
+    padding: 20px 0px;
+    visibility: visible;
+    cursor: pointer;
+  }
+
+  .header-right {
+    display: none; 
+  }
+
+  header {
+    width: 100%;
+}
+   
+.dropdown {
+    display: inline-block;
+    visibility: visible;
+    float: right;    
+}
+
+.dropdown-content {
+    
+    display: none;
+    position: absolute;
+    background-color: rgba(4, 6, 12, 0.6);
+    width: 65%;
+    
+    z-index: 1;  
+  }
+
+  .dropdown-content a {
+    color: rgb(255, 254, 254);
+    padding: 12px 0;
+    text-decoration: none;
+    display: block;
+    padding-left: 35%;
+    border: none;
+  } 
+
+  .dropdown-content a:hover{
+      background-color: rgba(85, 74, 74, 0.8);
+  } 
+
+.dropdown:hover .dropdown-content {
+    display: block;
+    margin-left: -59%;
+    
+}
+    
     
 }
 

@@ -191,3 +191,53 @@ a:hover{
     text-align:center;
     background-color:#ecf0f1;
 }
+
+header {
+    height: 55px;
+    width: 100%;
+    background-color: rgba(4, 6, 12, 0.5);
+    position :fixed;
+    top: 0;
+    z-index: 10;
+}
+
+.header-left{
+    float: left;
+    font-size: 10px;
+    color: white;
+    padding-bottom: 10px;
+}
+
+.header-right {
+    float: right;
+}
+
+.header-right a{
+    line-height: 55px;
+    padding: 0 25px;
+    color: white;
+    display: block;
+    float: left;
+    text-decoration: none;
+    transition: all 0.5s;  
+    border:none;   
+}
+
+.header-right a:hover{
+    background-color: rgba(0,0,0,0.3);
+}
+
+.fa-bars{
+    
+    display: none;
+    visibility: hidden;
+}
+
+.dropdown {
+    display: none;
+    visibility: hidden;
+}
+
+
+
+

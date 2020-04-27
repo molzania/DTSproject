@@ -238,6 +238,94 @@ header {
     visibility: hidden;
 }
 
+footer {
+  max-width:100%;
+  padding-top: 10px;
+  padding-bottom: 25px;
+  margin-bottom: 5px;
+  color:red;
+}
+
+.footer-left {
+  padding-left:5px;
+  margin-top: 0px;
+  margin-bottom: 12px;
+  display: inline-block;
+  float: left;
+}
+
+.footer-center {
+  display:inline-block;
+  justify-content: center;
+  margin-top: 10px;
+  text-align: center;
+  margin-left: 420px;
+}
+
+.footer-center p {
+  margin: 0 auto;
+  color:red;
+  font-size:15px;
+  text-align: center;
+}
+
+.footer-right {
+  margin-right: 15px;
+  display: inline;
+}
+
+.socmed {
+  display: inline;
+}
+
+.fa {
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 20px;
+  margin-right:15px;
+  font-size: 15px;
+  width: 5px;
+  text-align: center;
+  float:right;
+  padding-bottom: 10px;
+  border:1px solid red;
+  border-radius: 50%;
+}
+.fa:hover {
+  opacity:0.5;
+  color:red;
+}
+
+.fa-facebook {
+  background: white;
+  color: red;
+}
+
+.fa-pinterest {
+  background: white;
+  color: red;
+}
+
+.fa-linkedin {
+  background: white;
+  color: red;
+}
+
+.fa-twitter {
+  background: white;
+  color: red;
+}
+
+.fa-instagram {
+  background: white;
+  color: red;
+}
+
+.fa-angle-up {
+  background-color:white;
+  color:red;
+  text-decoration:none;
+}
 
 
 
